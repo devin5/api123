@@ -1,0 +1,23 @@
+{
+  "name": "api123",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devin5/api123.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devin5/api123/issues"
+  },
+  "homepage": "https://github.com/devin5/api123#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
